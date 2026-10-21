@@ -1,0 +1,11 @@
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+log.txt
+runs/
+Corona-2/
+Mask-1/
+yolov8n.pt
